@@ -30,4 +30,5 @@ document.querySelector("body > div.container > div > div.infos > p:nth-child(7)"
 document.querySelector("body > div.container > div > div.infos > p:nth-child(6)").innerHTML="进出类型：出"
 ```
 
-# This program is for personal study only. Do not use it in illegal ways.
+# This program is for personal study only.
+# Do not use it in illegal ways.
