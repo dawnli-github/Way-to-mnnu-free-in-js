@@ -16,7 +16,7 @@ document.body.innerHTML=document.body.innerHTML.replace("2021.xx.xx xx:xx", new 
 
 ### 1. Get the JS path
 
-![image](img/get js-path.png)
+![image](img/get-js-path.png)
 
 ### 2. Edit javaScript
 
